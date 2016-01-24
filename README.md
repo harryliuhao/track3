@@ -9,7 +9,7 @@ original assignment requirements:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
- ##procedure 1. Merges the training and the test sets to create one data set.
+ ### procedure 1. Merges the training and the test sets to create one data set.
  before I merge the data, I performed the following analysis to understand the files
  so I can merge the data correctly
  review the distribution in the four datasets that only have one variable
@@ -19,7 +19,7 @@ original assignment requirements:
  so a good guess features.txt has the column header for _x files
 
 
-##procedure 4. Appropriately labels the data set with descriptive variable names.
+## procedure 4. Appropriately labels the data set with descriptive variable names.
 
 
 ##procedure 3. Uses descriptive activity names to name the activities in the data set
